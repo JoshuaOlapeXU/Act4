@@ -11,11 +11,18 @@ This is an Invoice Management System Java code that allows you to Add, Delete, V
  *HERE IS THE TUTORIAL*
 Start MySQL Server:
 
-1.
+
  Navigate to your MySQL folder using Command Prompt.
-2.
+
+
+
+
 Start the server by typing mysqld --console.
-3. 
+
+
+
+
+
 Launch MySQL Database:
 
 Open another Command Prompt window.
