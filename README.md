@@ -26,14 +26,35 @@ Start the server by typing mysqld --console.
 Launch MySQL Database:
 
 Open another Command Prompt window.
+
+
+
+
 Go to your MySQL folder.
+
+
+
+
 Log in to MySQL using your username and password by typing mysql -u (your username) -p.
 Enter your password when prompted.
+
+
+
 Create a new database by typing CREATE DATABASE invoicesystem;.
+
+
+
 Switch to the new database by typing use ebookshop;.
+
+
+
 Create Tables:
 
+
+
 Execute these commands to create tables and define their columns:
+
+
 Leave Command Prompt Open.
 
 **Run Visual Studio Code:**
